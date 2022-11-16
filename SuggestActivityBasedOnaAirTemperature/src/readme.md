@@ -1,4 +1,4 @@
-**User Login**
+**SuggestActivityBasedOnaAirTemperature**
 ---
 ---
 Kullanıcıdan sıcaklık değeri girip, sıcaklık değerine göre etkinlik sunan program.
